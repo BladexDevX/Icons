@@ -1,0 +1,3 @@
+return {
+    click_sound = "rbxassetid://175964948",
+}

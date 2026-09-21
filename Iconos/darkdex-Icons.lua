@@ -1,0 +1,22 @@
+return {
+	["window-minimize"] = "rbxassetid://5034768003",
+	["window-minimize-hover"] = "rbxassetid://5060023708",
+	["window-minimize-active"] = "rbxassetid://5448127505",
+	["window-shadow"] = "rbxassetid://2764171053",
+	["window-outline"] = "rbxassetid://1427967925",
+	["settings"] = "rbxassetid://6578871732",
+	["info"] = "rbxassetid://6578933307",
+	["search"] = "rbxassetid://5034718129",
+	["search-alt"] = "rbxassetid://5034718180",
+	["drag-handle"] = "rbxassetid://5054663650",
+	["small-icon"] = "rbxassetid://5642310344",
+	["checkbox"] = "rbxassetid://6234266378",
+	["checkmark-blue"] = "rbxassetid://6401617475",
+	["checkbox-middle"] = "rbxassetid://6425281788",
+	["color-space"] = "rbxassetid://1072518406",
+	["color-strip"] = "rbxassetid://1072518502",
+	["hex-pattern"] = "rbxassetid://1281023007",
+	["misc-icons"] = "rbxassetid://6511490623",
+	["large-icons"] = "rbxassetid://6579106223",
+	["class-icons"] = "rbxassetid://5642383285"
+}
